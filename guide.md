@@ -21,3 +21,8 @@
     -   Update ejs file with ejs syntax
     -   Add an array to the app
     -   Update the array to display as list in the ejs
+
+## Add partials under views
+    -   Create 'partials' folder under the 'views'
+    -   Create header.ejs, etc.
+        -   Include this in the app
